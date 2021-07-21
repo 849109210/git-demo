@@ -11,6 +11,7 @@ public class Test {
         for(int m = 0; m < arrays.length; m++){
             System.out.print(arrays[m] + " ");
         }
+        System.out.println("测试");
     }
     public static void Bubble(int[] a){
         for(int i = 1; i < a.length; i++){
