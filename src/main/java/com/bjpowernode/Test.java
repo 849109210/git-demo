@@ -14,6 +14,7 @@ public class Test {
         System.out.println("测试");
         System.out.println("测试2");
         System.out.println("测试333");
+        System.out.println("测试333333");
     }
     public static void Bubble(int[] a){
         for(int i = 1; i < a.length; i++){
